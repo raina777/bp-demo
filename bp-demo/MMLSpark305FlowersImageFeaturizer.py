@@ -15,7 +15,7 @@ model = ModelDownloader(spark, "/models").downloadByName("ResNet50")
 
 # COMMAND ----------
 
-model = ModelDownloader(spark, "models").downloadByName("ResNet50")
+#model = ModelDownloader(spark, "models").downloadByName("ResNet50")
 
 # COMMAND ----------
 
